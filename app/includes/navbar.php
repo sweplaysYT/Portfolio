@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="styling/navbar.css">
+<link rel="stylesheet" href="/assets/css/navbar.css">
 <body>
     <nav id="drag-nav">
         <ul>

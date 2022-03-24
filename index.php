@@ -1,13 +1,11 @@
-<?php
-include_once "navbar.php"
-?>
+<?php include "path.php"; ?>
 
-<link rel="stylesheet" href="styling/index.css">
+<?php include ROOT_PATH . "/app/includes/navbar.php"; ?>
+
+<link rel="stylesheet" href="/assets/css/index.css">
 
 <body>
     <h1>SweplaysYT</h1>
 </body>
 
-<?php
-include_once "footer.php"
-?>
+<?php include ROOT_PATH . "/app/includes/footer.php"; ?>
